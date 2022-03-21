@@ -62,10 +62,10 @@ background:rgba(255,128,0,0.5);}
 -webkit-box-shadow: 4px 4px 4px rgba(50, 50, 50, 0.5); box-shadow: 4px 4px 4px rgba(50, 50, 50, 0.5);}
 .imaCell{display:  table; text-align: center; -webkit-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;
 position:  absolute; border-color: black; border-style: dotted; border-width: 1px;
-width:519px; height: 346px;}
+width:600px; height: 400px;}
 #ardoraActCanvas{z-index: 0; position: absolute; visibility:hidden;}
 #ardoraActCanvasAnim{z-index: 1; position: absolute;}
-#ardoraAct{ width:684px; height:346px;position: relative; margin-right: 10px; padding: 5px; float: left;
+#ardoraAct{ width:765px; height:400px;position: relative; margin-right: 10px; padding: 5px; float: left;
 background-image: url(../media/partes-externas-de-una-computadora.png); background-position: left; background-repeat: no-repeat; background-origin:content-box;
 }
 .txtCell{ font-family:'Times New Roman', Times, serif;position:absolute;  font-size:12px;padding:0px;margin: 0px;text-align: center;width:150px;z-index:3;background-color:rgba(0,0,0,0);border-radius:4px}
@@ -75,12 +75,12 @@ color:#000000;
 -moz-box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.75);-webkit-box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.75);box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.75);
 }
 .txtCell p{margin: 0px;padding: 2px;}.txtCell_txt p{margin: 0px; padding: 2px;cursor: pointer;}
-#txt1 {left:534px;}
-#txt2 {left:534px;}
-#txt3 {left:534px;}
-#txt4 {left:534px;}
-#txt5 {left:534px;}
-#txt6 {left:534px;}
-#txt7 {left:534px;}
+#txt1 {left:615px;}
+#txt2 {left:615px;}
+#txt3 {left:615px;}
+#txt4 {left:615px;}
+#txt5 {left:615px;}
+#txt6 {left:615px;}
+#txt7 {left:615px;}
 #ardoraTab{width: 70px;height:320px; position: relative; visibility: visible;padding:5px;float:left;}
 .txtCellOk{background:radial-gradient(ellipse at center center,#FFFFFF,#91962F);border-width:1px;border-style:solid;border-color:#000000;color:#000000;border-radius:4px;padding-left:5px;padding-right:5px;box-shadow:3px 3px 3px rgba(50, 50, 50, 0.75);}
